@@ -14,7 +14,7 @@ the program can get the acceleration of a body:
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/Acceleration.png" alt="Acceleration"/>
 
-now, apply this acceleration to the movement this movement equation:
+now, apply this acceleration to the movement [this movement equation](https://en.wikipedia.org/wiki/Leapfrog_integration):
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/LeapfrogIntegration.png" alt="Acceleration"/>
 
