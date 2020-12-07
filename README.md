@@ -20,6 +20,7 @@ now, apply this acceleration to the movement this movement equation:
 
 and you have movement.
 
-###### NOTE: some equations are silightly changed for a more fun experience. You should change this equations if you wanna have a realistic simulation.
+###### NOTE: 
+Some equations are silightly changed for a more fun experience. You should change this equations if you wanna have a realistic simulation.
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/example.png" alt="window output"/>
