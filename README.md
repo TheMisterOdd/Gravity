@@ -23,4 +23,7 @@ and you have movement.
 ###### NOTE: 
 Some equations are silightly changed for a more fun experience. You should change this equations if you wanna have a realistic simulation.
 
+
+# Example:
+
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/example.png" alt="window output"/>
