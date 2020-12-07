@@ -2,16 +2,22 @@
 Orbits and Gravitational simulations using OpenGL and C++.
 
 # The Algorithm
-Firstly, the program calculates the Gravitational Force between all the Celestial Bodies. It uses this fromula:
+Firstly, the program calculates the gravitational force between all the celestial bodies by using this formula:
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/GravitationalForce.png" alt="GravitationalForce"/>
 
-By using this other formula (the force formula):
+by using this other formula, the force formula:
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/Force.png" alt="GravitationalForce"/>
 
-The program can get the body acceleration:
+the program can get the acceleration of a body:
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/Acceleration.png" alt="Acceleration"/>
+
+now, apply this acceleration to the movement this movement equation:
+
+<img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/LeapfrogIntegration.png" alt="Acceleration"/>
+
+and you have movement.
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/example.png" alt="window output"/>
