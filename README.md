@@ -4,7 +4,7 @@ Orbits and Gravitational simulations using OpenGL and C++.
 # The Algorithm
 Firstly, the program calculates the gravitational force between all the celestial bodies by using [this formula](https://en.wikipedia.org/wiki/Newton's_law_of_universal_gravitation):
 
-<img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/GravitationalForce.png" alt="GravitationalForce"/>
+<img src="https://render.githubusercontent.com/render/math?math=F = G frac{Mm}{r^2}">
 
 by using this other formula, the [force formula](https://en.wikipedia.org/wiki/Force):
 
