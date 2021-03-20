@@ -8,7 +8,7 @@ Firstly, the program calculates the gravitational force between all the celestia
 
 by using this other formula, the [force formula](https://en.wikipedia.org/wiki/Force):
 
-<img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/Force.png" alt="GravitationalForce"/>
+<img src="https://render.githubusercontent.com/render/math?math=$F = ma$">
 
 the program can get the acceleration of a body:
 
