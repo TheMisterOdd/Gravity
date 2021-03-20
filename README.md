@@ -18,11 +18,6 @@ now, apply this acceleration to the movement [this movement equation](https://en
 
 <img src="https://render.githubusercontent.com/render/math?math=$x_{i %2B 1} = x_i %2B v \Delta t %2B \frac{1}{2}a \Delta t^2$">
 
-and you have movement.
-
-###### NOTE: 
-Some equations are silightly changed for a more fun experience. You should change this equations if you wanna have a realistic simulation.
-
 
 # Example:
 
