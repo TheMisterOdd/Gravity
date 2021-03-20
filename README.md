@@ -16,7 +16,7 @@ the program can get the acceleration of a body:
 
 now, apply this acceleration to the movement [this movement equation](https://en.wikipedia.org/wiki/Leapfrog_integration):
 
-<img src="https://render.githubusercontent.com/render/math?math=$x_{i+1} = x_i + v \Delta t + \frac{1}{2}a \Delta t$">
+<img src="https://render.githubusercontent.com/render/math?math=$x_{i++1} = x_i ++ v \Delta t ++ \frac{1}{2}a \Delta t$">
 
 <img src="https://raw.githubusercontent.com/TheMisterOdd/Gravity/main/images/LeapfrogIntegration.png" alt="Acceleration"/>
 
