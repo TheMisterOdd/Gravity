@@ -13,6 +13,7 @@ by using this other formula, the [force formula](https://en.wikipedia.org/wiki/F
 the program can get the acceleration of a body:
 
 <img src="https://render.githubusercontent.com/render/math?math=$a = \frac{F}{m}$">
+<img src="https://render.githubusercontent.com/render/math?math=$a = \frac{GM}{r^2}$">
 
 now, apply this acceleration to the movement [this movement equation](https://en.wikipedia.org/wiki/Leapfrog_integration):
 
