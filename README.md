@@ -15,7 +15,7 @@ the program can get the acceleration of a body:
 <img src="https://render.githubusercontent.com/render/math?math=$a = \frac{F}{m}$">
 <img src="https://render.githubusercontent.com/render/math?math=$a = \frac{GM}{r^2}$">
 
-now, apply this acceleration to the movement [this movement equation](https://en.wikipedia.org/wiki/Leapfrog_integration):
+now, apply this acceleration to [this movement equation](https://en.wikipedia.org/wiki/Leapfrog_integration):
 
 <img src="https://render.githubusercontent.com/render/math?math=$x_{i %2B 1} = x_i %2B v \Delta t %2B \frac{1}{2}a \Delta t^2$">
 
