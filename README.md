@@ -1,5 +1,5 @@
 # Gravity
-Orbits and Gravitational simulations using OpenGL and C++.
+Orbits and Gravitational simulations using OpenGL and C.
 
 # The Algorithm
 Firstly, the program calculates the gravitational force between all the celestial bodies by using [this formula](https://en.wikipedia.org/wiki/Newton's_law_of_universal_gravitation):
